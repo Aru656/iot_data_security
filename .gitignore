@@ -1,0 +1,7 @@
+target/
+tokens/
+keys/
+credentials.json
+.vscode/
+*.class
+*.log

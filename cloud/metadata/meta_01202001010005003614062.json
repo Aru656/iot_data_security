@@ -1,0 +1,6 @@
+{
+"device_id": "RPI_01",
+"timestamp": "SensorData{deviceId='RPI_01', timestamp='2020-01-01 00:05:00', temperature=36.14, humidity=0.62}",
+"hash": "6W2qY64X/1HZQEN/QH2uYhv964LI3EybwoV2es6buOI=",
+"encrypted_aes_key": "BNneJdaaFXIQ2Dwr7GOqTA/Y/Skip38PmKC6hvdizv8f6lazYkpFNK5kSa1YKk9MvBv160Zp2Rz/p7LsrFXCAHT94ulbIwraUc1fMFpuuXh8/3v727GeA5Uo8PxbRpRytBKrQBA="
+}
